@@ -159,10 +159,7 @@ blockquote {
     }
     .container{
         max-width: 40em;
-        margin-left: -3em;
-    }
-    .header{
-        margin-left: 3em;
+        margin: 0 auto;
     }
 
 } 
