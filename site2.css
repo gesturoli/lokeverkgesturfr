@@ -1,0 +1,22 @@
+body{
+    max-width: 60%;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom, rgb(69, 68, 68), rgb(29, 28, 27));    
+    color: white;
+}
+h4{
+    font-size: 3em;
+    text-align: center;
+}
+.plata img{
+    height: 50%;
+    width: 50%;
+    object-fit: fill;
+}
+.plata{
+    text-align: center;
+    margin-bottom: 1em;
+}
+.goog{
+    text-align: center;
+}
